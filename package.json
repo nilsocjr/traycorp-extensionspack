@@ -1,0 +1,46 @@
+{
+    "name": "traycorp",
+    "displayName": "TrayCorp",
+    "description": "Package to assist in the day-to-day work of front end developers",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "publisher": "nilsojr",
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#142032",
+        "theme": "dark"
+    },
+    "keywords": [
+        "react",
+        "typescript",
+        "next",
+        "styled-components",
+        "graphql"
+    ],
+    "repository": {
+        "url": "https://github.com/NilsoJunior/traycorp-extensionspack"
+    },
+    "homepage": "https://github.com/NilsoJunior/traycorp-extensionspack",
+    "bugs": {
+        "url": "https://github.com/NilsoJunior/traycorp-extensionspack/issues"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "publisher.extensionName",
+        "msjsdiag.debugger-for-chrome",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "editorconfig.editorconfig",
+        "necinc.elmmet",
+        "dsznajder.es7-react-js-snippets",
+        "xabikos.javascriptsnippets",
+        "syler.sass-indented",
+        "pkief.material-icon-theme",
+        "equinusocio.vsc-community-material-theme",
+        "mhutchie.git-graph"
+    ]
+}
