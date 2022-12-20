@@ -2,21 +2,19 @@
 
 # TrayCorp Extension Pack
 
-Conjunto de plugins VSCode, para auxiliar seu desenvolvimento diário.
+Sugestões de plugins para seu desenvolvimento diário.
 
 ## Extensões
 
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) 
-
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-- [Prettier Formatter for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) 
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-- [Prettier Formatter for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
-- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
-- [Elm Emmet](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet)
+- [Typescript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
@@ -24,9 +22,6 @@ Conjunto de plugins VSCode, para auxiliar seu desenvolvimento diário.
 
 - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-- [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-
-- [Material Themes](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
